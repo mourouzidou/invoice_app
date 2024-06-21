@@ -1,3 +1,6 @@
+Appodeikseis_v2 is an advanced application designed to streamline and enhance the process of calculating and generating invoices for products and clients. It offers a user-friendly interface with robust features aimed at improving efficiency and accuracy in managing invoices.
+
+
 # Version 2 Changes
 
 - **Raise error** in case price is not given for non-recorded product
