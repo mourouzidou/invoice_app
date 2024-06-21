@@ -1,0 +1,611 @@
+MONSTER ΔΙΑΦΟΡΑ,1.05
+MONSTER DOCTOR (ΚΙΤΡΙΝΟ),1.05
+MONSTER PUNCH (ΡΟΖ),1.05
+MONSTER ΠΡΑΣΙΝΟ,1.05
+MONSTER ΛΑΧΑΝΙ,1.05
+MONSTER ΓΑΛΑΖΙΟ,1.05
+MONSTER ULTRA BLUE (ΓΑΛΑΖΙΟ),1.05
+MONSTER NITRO,1.05
+MONSTER ΑΣΠΡΟ,1.05
+MONSTER PUNCH (ΜΟΒ),1.05
+MONSTER RED (ΚΟΚΚΙΝΟ),1.05
+MONSTER KHAOTIC,1.05
+MONSTER REHUB (ΚΟΚΚΙΝΟ),1.05
+MONSTER ΜΠΛΕ,1.05
+MONSTER MANGO LOCO,1.05
+MONSTER ΚΑΡΠΟΥΖΙ,1.05
+MONSTER ΧΡΥΣΟ,1.05
+MONSTER REHUB ΚΙΤΡΙΝΟ,1.05
+MONSTER REHUB ΚΟΚΚΙΝΟ,1.05
+MONSTER ΚΡΕΜ,1.05
+MONSTER ΠΕΤΑΛΟΥΔΑ,1.05
+MONSTER NITRO,1.05
+MONSTER RIPPER (ΚΙΤΡΙΝΟ),1.05
+MONSTER FIESTA,1.05
+MONSTER HAMILTON,1.05
+REDBULL ΜΕΓΑΛΟ,1.32
+REDBULL ΜΙΚΡΟ,1.1
+REDBULL LIGHT,1.1
+REDBULL ZERO ΜΑΥΡΟ,1.1
+GORDONS SPACE,2.1
+LUCOZADE ΚΙΤΡΙΝΟ,1
+LUCOZADE ΠΟΡΤΟΚΑΛΙ,1
+LUCOZADE ΡΟΖ,1
+HELL ΜΕΓΑΛΑ ΔΙΑΦΟΡΑ,0.9
+HELL ΜΕΓΑΛΑ ΔΙΑΦΟΡΑ,0.9
+HELL ΜΕΓΑΛΟ ΚΟΚΚΙΝΟ,0.9
+HELL ΜΕΓΑΛΟ ΜΗΛΟ,0.9
+HELL ΜΕΓΑΛΟ ΚΑΡΠΟΥΖΙ,0.9
+HELL ΜΕΓΑΛΟ BLACK CHERRY,0.9
+HELL ΜΕΓΑΛΟ ΣΤΑΦΥΛΙ,0.9
+HELL ΜΙΚΡΑ ΔΙΑΦΟΡΑ,0.52
+HELL ΜΙΚΡΟ ΚΟΚΚΙΝΟ,0.52
+HELL ΜΙΚΡΟ ΜΗΛΟ,0.52
+HELL ΜΙΚΡΟ ΣΤΑΦΥΛΙ ΚΑΡΠΟΥΖΙ,0.52
+HELL ΜΙΚΡΟ FOCUS,0.52
+HELL ΜΙΚΡΟ MULTI VITAMIN,0.52
+HELL ΜΙΚΡΟ ΜΟΒ,0.52
+HELL ΜΙΚΡΟ ΝΕΟ ΜΠΛΕ,0.52
+HELL ΜΙΚΡΟ ΝΕΟ ΠΡΑΣΙΝΟ,0.52
+HELL ΜΙΚΡΟ ΚΙΤΡΙΝΟ,0.52
+HELL ΜΙΚΡΟ ΚΟΚΚΙΝΟ ΒΑΤΟΜΟΥΡΟ,0.52
+HELL ΜΙΚΡΟ ΜΟΒ BLACK CHERRY,0.52
+HELL ΜΙΚΡΟ ΜΑΥΡΟ,0.52
+HELL ΜΙΚΡΟ ΑΣΠΡΟ,0.52
+HELL ΜΙΚΡΟ ΦΡΑΟΥΛΑ,0.52
+HELL ΜΙΚΡΟ AI,0.52
+SMOOTHIE,1.35
+MOTION ΜΙΚΡΟ,1
+MOTION ΜΕΓΑΛΟ,1.9
+FUSETEA ΔΙΑΦΟΡΑ,0.85
+FUSETEA ΡΟΔΑΚΙΝΟ,0.85
+FUSETEA ΛΕΜΟΝΙ,0.85
+FUSETEA FOREST FRUIT,0.85
+FUSETEA ΚΕΡΑΣΙ,0.85
+ALOE ΔΙΑΦΟΡΑ,1
+ALOE ΡΟΔΙ,1 
+ALOE ΦΡΑΟΥΛΑ,1 
+ALOE ΑΝΑΝΑ,1
+ALOE ΜΑΝΓΚΟ,1
+ALOE ΠΡΑΣΙΝΟ,1
+ΝΕΡΑ MAX ΔΙΑΦΟΡΑ,0.95
+ΝΕΡΑ MAX ΣΥΚΟ,0.95
+ΝΕΡΑ MAX ΚΕΡΑΣΙ,0.95
+ΝΕΡΑ MAX ΡΟΖ,0.95
+ΝΕΡΑ MAX MOJITO,0.95
+ΝΕΡΑ ΜΑΧ ΒΑΤΟΜΟΥΡΟ,0.95
+ΝΕΡΑ MAX ΓΑΛΑΖΙΟ,0.95
+ΝΕΡΑ MAX ΒΑΤΟΜΟΥΡΟ ΛΕΜΟΝΙ,0.95
+JACOBS ESPRESSO,1.35
+NESCAFE ΚΟΥΤΑΚΙ,2.34
+NESCAFE ΦΑΚΕΛΑΚΙ,0.15
+ΡΟΛΟ ΤΑΜΕΙΑΚΗΣ,0.3
+ΣΠΙΡΤΑ,4.5
+BIC ΣΤΥΛΟ,0.2
+ROYAL ΤΡΑΠΟΥΛΑ,1
+MODIANO ΤΡΑΠΟΥΛΑ ΑΠΛΗ,1.3
+MODIANO ΤΡΑΠΟΥΛΑ ΧΡΥΣΗ,3
+ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ,0.055
+TICHU,1
+ΦΑΚΕΛΟΣ ΓΙΑ ΓΑΜΟ,0.05
+ΦΑΚΕΛΟΣ ΓΡΑΜΜΑ,0.05
+ΚΑΡΤΕΣ,0.05
+ΜΠΑΤΑΡΙΕΣ ENERGIZER 9V,1.8
+ΜΠΑΤΑΡΙΕΣ PANASONIC 9V,1.8
+ΜΠΑΤΑΡΙΕΣ ENERGIZER AA,1.5
+ΜΠΑΤΑΡΙΕΣ PANASONIC AA,1
+ΜΠΑΤΑΡΙΕΣ ENERGIZER AAA,1.5
+ΜΠΑΤΑΡΙΕΣ ENERGIZER C,2
+ΜΠΑΤΑΡΙΕΣ ENERGIZER D,2.2
+ΜΠΑΤΑΡΙΕΣ PANASONIC AAA,1
+ΜΠΑΤΑΡΙΕΣ ΣΤΡΟΓΓΥΛΕΣ,1
+GILETTE ΞΥΡΑΦΑΚΙ,2
+BIC ΞΥΡΑΦΑΚΙ,1.1
+LOGO,2.3
+ΣΕΛΟΤΕΪΠ,0.5
+ASTOR ΛΕΠΙΔΕΣ,1
+LIPTON ΜΠΟΥΚΑΛΙ ΔΙΑΦΟΡΑ,0.8
+LIPTON ΜΠΟΥΚΑΛΙ ΛΕΜΟΝΙ,0.8
+LIPTON ΜΠΟΥΚΑΛΙ ΡΟΔΑΚΙΝΟ,0.8
+LIPTON ΜΠΟΥΚΑΛΙ ΠΡΑΣΙΝΟ,0.8
+LIPTON ΚΟΥΤΑΚΙ ΔΙΑΦΟΡΑ,0.55
+LIPTON ΚΟΥΤΑΚΙ ΡΟΔΑΚΙΝΟ,0.55
+LIPTON ΚΟΥΤΑΚΙ ΛΕΜΟΝΙ,0.55
+LIPTON ΚΟΥΤΑΚΙ ΠΡΑΣΙΝΟ,0.55
+POWERADE ΔΙΑΦΟΡΑ,1.1
+POWERADE ΜΠΛΕ,1.1
+POWERADE ΚΟΚΚΙΝΟ,1.1
+POWERADE ΠΡΑΣΙΝΟ,1.1
+POWERADE ΠΟΡΤΟΚΑΛΙ,1.1
+UHU ΚΟΛΛΑ,0.5
+SCHWEPPES ΔΙΑΦΟΡΑ,0.7
+SCHWEPPES ΠΟΡΤΟΚΑΛΙ,0.7
+SCHWEPPES ΛΕΜΟΝΙ,0.7
+SCHWEPPES ΠΡΑΣΙΝΟ,0.7
+SCHWEPPES ΡΟΖ,0.7
+SCHWEPPES ΑΣΗΜΙ ΣΟΔΑ,0.6
+SCHWEPPES ΡΟΔΙ,0.7
+COCA COLA,0.7
+COCA COLA ZERO,0.7
+COCA COLA LIGHT,0.7
+COCA COLA ZERO ΛΕΜΟΝΙ,0.7
+SPRITE,0.7
+FANTA ΛΕΜΟΝΑΔΑ,0.7
+FANTA ΠΟΡΤΟΚΑΛΑΔΑ,0.7
+FANTA 500 ml ΔΙΑΦΟΡΕΣ,0.95
+FANTA 500 ml ΝΕΑ,0.95
+FANTA 500 ml ΠΡΑΣΙΝΗ,0.95
+FANTA 500 ml ΜΠΛΕ,0.95
+FANTA 500 ml ΕΡΩΤΗΜΑΤΙΚΟ,0.95
+FANTA 500 ml ΒΑΤΟΜΟΥΡΟ,0.95
+FANTA 500 ml ΜΑΝΤΑΡΙΝΙ,0.95
+ΕΜΠΛΑΣΤΡΑ,2.8
+LIPOSAN ΔΙΑΦΟΡΑ,1.9
+LIPOSAN ΜΠΛΕ,1.9
+LIPOSAN ΚΑΡΠΟΥΖΙ,1.9
+LIPOSAN ΤΡΙΑΝΤΑΦΥΛΛΟ,1.9
+LIPOSAN ΒΑΝΙΛΙΑ,1.9
+LIPOSAN ΒΑΤΟΜΟΥΡΟ,1.9
+LIPOSAN ΚΕΡΑΣΙ,1.9
+LIPOSAN ΦΡΑΟΥΛΑ,1.9
+ALWAYS ΣΕΡΒΙΕΤΕΣ,1.9
+EVERYDAY ΣΕΡΒΙΕΤΕΣ,1.9
+ΧΤΕΝΕΣ,0.35
+ΤΣΙΜΠΙΔΑΚΙΑ,2
+DRUM,0.18
+COLGATE ΟΔΟΝΤΟΒΟΥΡΤΣΑ,1.1
+COLGATE ΟΔΟΝΤΟΚΡΕΜΑ,1.8
+HANSAPLAST,1
+ΜΑΣΚΕΣ,0.1
+HANKIES ΜΑΝΤΗΛΑΚΙΑ,0.4
+ΝΥΧΟΚΟΠΤΕΣ ΜΙΚΡΟΙ,0.75
+ΝΥΧΟΚΟΠΤΕΣ ΜΕΓΑΛΟΙ,0.85
+ZEWA ΧΑΡΤΟΜΑΝΤΗΛΑ,0.2
+DEPON ΑΝΑΒΡΑΖΟΝ,2.2
+DEPON ΑΝΑΒΡΑΖΟΝ MAXIMUM,3.2
+DEPON ΧΑΠΙ,2.1
+ΟΜΠΡΕΛΕΣ,1.9
+TRIDENT 60 ΜΠΛΕ,0.8
+TRIDENT 60 ΠΡΑΣΙΝΗ,0.8 
+TRIDENT ΠΡΑΣΙΝΗ FROST,0.8
+TRIDENT ΚΟΥΤΑΚΙ ΔΙΑΦΟΡΕΣ,0.8
+TRIDENT ΚΟΥΤΑΚΙ ΜΟΒ ΛΕΜΟΝΙ,0.8
+TRIDENT ΚΟΥΤΑΚΙ ΚΑΡΠΟΥΖΙ,0.8
+TRIDENT ΚΟΥΤΑΚΙ ΡΟΖ,0.8
+TRIDENT ΚΟΥΤΑΚΙ BUBBLE ΡΟΖ,0.8
+TRIDENT SPLASH ΔΙΑΦΟΡΕΣ,0.8
+TRIDENT SPLASH ΠΡΑΣΙΝΗ,0.8
+TRIDENT SPLASH ΚΡΕΜ,0.8 
+TRIDENT SPLASH ΚΟΚΚΙΝΗ,0.8
+TRIDENT WHITE ΠΡΑΣΙΝΗ,0.8
+TRIDENT SENSES ΔΙΑΦΟΡΕΣ,0.8
+TRIDENT SENSES ΚΑΡΠΟΥΖΙ,0.8
+TRIDENT SENSES ΠΡΑΣΙΝΗ,0.8
+TRIDENT SENSES ΦΡΑΟΥΛΑ,0.8
+TRIDENT SENSES TROPICAL,0.8
+TRIDENT SENSES BUBBLE ΡΟΖ,0.8
+TRIDENT SENSES ΜΕΝΤΑ ΚΑΝΕΛΑ,0.8
+SENSES MAX ΔΙΑΦΟΡΕΣ,0.8
+SENSES MAX ΠΡΑΣΙΝΗ,0.8
+SENSES MAX ΜΠΛΕ,0.8
+SENSES MAX ΒΑΤΟΜΟΥΡΟ,0.8
+SENSES MAX ΡΟΔΑΚΙΝΟ,0.8
+TRIDENT ORAL-B ΠΡΑΣΙΝΗ,0.8
+TRIDENT ORAL-B ΜΠΛΕ,0.8
+NATURA ΑΝΤΙΣΗΠΤΙΚΟ,3
+HEARTS ΑΝΤΙΣΗΠΤΙΚΟ,1
+MENTOS 45 ΜΠΛΕ,0.8
+MENTOS 45 ΠΡΑΣΙΝΗ,0.8
+MENTOS ΠΛΑΚΕ ΠΡΑΣΙΝΗ,0.8
+MENTOS ΠΛΑΚΕ ΜΠΛΕ,0.8
+MENTOS ΣΩΛΗΝΑ ΜΠΛΕ,0.55
+MENTOS ΣΩΛΗΝΑ ΦΡΟΥΤΑ,0.55
+MENTOS ΣΩΛΗΝΑ ΠΟΡΤΟΚΑΛΑΔΑ,0.55
+MENTOS STORMING ΔΙΑΦΟΡΕΣ,0.8
+MENTOS STORMING ΠΡΑΣΙΝΗ,0.8
+MENTOS STORMING ΜΠΛΕ,0.8
+MENTOS STORMING ΡΟΖ,0.8
+MENTOS STORMING ΚΟΚΚΙΝΗ,0.8
+MENTOS STORMING ΚΑΡΠΟΥΖΙ,0.8
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΔΙΑΦΟΡΕΣ,0.98
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΠΡΑΣΙΝΗ,0.98
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΜΠΛΕ,0.98
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΚΙΤΡΙΝΗ,0.98
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΚΟΚΚΙΝΗ,0.98
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΡΟΖ,0.98
+MENTOS ΜΠΟΥΚΑΛΑΚΙ ΚΑΡΠΟΥΖΙ,0.98
+MENTOS PURE ΔΙΑΦΟΡΕΣ,0.8
+MENTOS PURE ΠΡΑΣΙΝΗ,0.8
+MENTOS PURE ΜΠΛΕ,0.8
+MENTOS PURE ΛΑΧΑΝΙ,0.8
+MENTOS PURE ΡΟΖ,0.8
+MENTOS PURE ΚΟΚΚΙΝΗ,0.8
+MENTOS PURE ΚΕΡΑΣΙ,0.8
+DUO ΠΡΟΦΥΛΑΚΤΙΚΑ,1.35
+DUO ΚΙΤΡΙΝΑ,1.35
+DUO ΜΟΒ,1.35
+DUO ΜΠΛΕ,1.35
+DUO ΠΡΑΣΙΝΑ,1.35
+DUO ΚΟΚΚΙΝΑ,1.35
+DUREX ΠΡΟΦΥΛΑΚΤΙΚΑ,1.25
+DUREX LOVE,1.25
+DUREX CLASSIC,1.25
+DUREX JEANS,1.25
+DUREX SENSITIVE,1.25
+DUREX ΡΟΖ,1.25
+STOP ΠΡΟΦΥΛΑΚΤΙΚΑ,1
+AGAIN ΠΡΟΦΥΛΑΚΤΙΚΑ ΡΟΖ,1.15
+AGAIN ΠΡΟΦΥΛΑΚΤΙΚΑ ΜΠΛΕ,1.15
+ΑΝΑΠΤΗΡΑΣ CRICKET,0.35
+ΑΝΑΠΤΗΡΑΣ BIC ΜΙΚΡΟΣ,0.55
+ΑΝΑΠΤΗΡΑΣ BIC ΜΕΓΑΛΟΣ,0.65
+ΑΝΑΠΤΗΡΑΣ ΒΑΡΕΛΑΚΙ,1.1
+ΑΝΑΠΤΗΡΑΣ CLIPPER,0.45
+ΑΝΑΠΤΗΡΑΣ ΣΧΕΔΙΑ,0.35
+ΑΝΑΠΤΗΡΑΣ ΑΝΤΙΑΝΕΜΙΚΟΣ ΦΘΗΝΟΣ,0.5
+ΑΝΑΠΤΗΡΑΣ ΓΙΑ ΤΖΑΚΙ,1.3
+ZERO ΛΑΒΔΑ,0.72
+HALLS ΣΩΛΗΝΑ ΕΛ ΚΟΚΚΙΝΗ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΜΑΥΡΗ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΜΠΛΕ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΚΙΤΡΙΝΗ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΠΡΑΣΙΝΗ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΜΟΒ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΚΑΡΟ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΚΑΡΠΟΥΖΙ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΔΥΟΣΜΟ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΚΑΝΕΛΑ,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ENERGY COCA COLA,0.65
+HALLS ΣΩΛΗΝΑ ΕΛ ΤΣΑΙ,0.65
+HALLS ΣΩΛΗΝΑ Ξ ΜΑΥΡΗ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΜΠΛΕ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΚΙΤΡΙΝΗ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΠΡΑΣΙΝΗ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΜΟΒ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΚΑΡΟ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΚΑΡΠΟΥΖΙ,0.55
+HALLS ΣΩΛΗΝΑ Ξ ΔΥΟΣΜΟ,0.55
+HALLS ΚΟΥΤΑΚΙ ΚΟΚΚΙΝΗ,0.8
+HALLS ΚΟΥΤΑΚΙ ΜΠΛΕ,0.8
+HALLS ΚΟΥΤΑΚΙ ΚΙΤΡΙΝΗ,0.8
+HALLS MINI ΜΠΛΕ,0.8
+HALLS MINI ΚΟΚΚΙΝΗ,0.8
+HALLS MINI ΚΙΤΡΙΝΗ,0.8
+DENTYNE ΜΟΒ,0.8
+DENTYNE ΑΝΘΡΑΚΑΣ ΜΑΥΡΗ,0.8
+DENTYNE WHITE ΠΡΑΣΙΝΗ,0.8
+DENTYNE ΤΣΑΙ,0.8
+DENTYNE SPEARMINT,0.8
+DENTYNE ΕΥΚΑΛΥΠΤΟΣ,0.8
+DENTYNE ΠΡΑΣΙΝΗ,0.8
+DENTYNE ΚΑΝΕΛΑ,0.8
+DENTYNE ΜΠΛΕ,0.8
+DENTYNE ΔΙΑΦΟΡΕΣ,0.8
+ΧΙΟΥ ΜΑΣΤΙΧΑ ΚΛΑΣΙΚΗ,0.8
+ΧΙΟΥ ΜΑΣΤΙΧΑ SUGAR FREE,0.8
+ΧΙΟΥ ΜΑΣΤΙΧΑ ΛΕΜΟΝΙ,0.75
+ΧΙΟΥ ΜΑΣΤΙΧΑ ΤΡΙΑΝΤΑΦΥΛΛΟ,0.75
+ΧΙΟΥ ΜΑΣΤΙΧΑ ΔΥΟΣΜΟ,0.75
+ΧΙΟΥ ΜΑΣΤΙΧΑ ΜΕΝΤΑ,0.75
+ΧΙΟΥ ΜΑΣΤΙΧΑ ΚΑΝΕΛΑ,0.75
+FISHERMANS ΜΠΛΕ,1.15
+FISHERMANS ΚΟΚΚΙΝΗ,1.15
+FISHERMANS ΑΣΠΡΗ,1.15
+FISHERMANS,1.15
+ΜΗΧΑΝΗ ΓΙΑ ΣΤΡΙΦΤΟ RIZLA ΠΛΑΣΤΙΚΗ,2.5
+ΜΗΧΑΝΗ ΓΙΑ ΣΤΡΙΦΤΟ RIZLA ΜΕΤΑΛΛΙΚΗ,3
+ΜΗΧΑΝΗ ΓΙΑ ΣΤΡΙΦΤΟ ΠΑΠΠΟΥ ΠΛΑΣΤΙΚΗ,2
+ΜΗΧΑΝΗ ΓΙΑ ΣΤΡΙΦΤΟ ΠΑΠΠΟΥ ΜΕΤΑΛΛΙΚΗ,2,5
+RIZLA ΑΔΕΙΑ ΤΣΙΓΑΡΑ,0.6
+ΤΑΜΠΑΚΙΕΡΑ,2.5
+ΚΑΠΝΟΘΗΚΗ,5
+MAGIC LIFE,2.5
+MAGIC LIFE ΠΑΠΠΟΥ REGULAR,1.1
+MAGIC LIFE ΠΑΠΠΟΥ SLIM,1.1
+MAGIC LIFE ΠΑΠΠΟΥ EXTRA SLIM,1.1
+ΥΓΡΑΕΡΙΟ,1.4
+ΖΙΠΕΛΑΙΟ,1.8
+FINI ΖΕΛΕΔΑΚΙΑ ΔΙΑΦΟΡΑ,0.70
+FINI BANANA,0.7
+FINI BEANS,0.7
+FINI WILD STRAWBERRY,0.7
+FINI CINEMA MIX,0.7
+FINI STAR MIX,0.7
+FINI PARTY MIX,0.7
+FINI GALAXY MIX,0.7
+FINI CLEAR MIX,0.7
+FINI FRUIT ΤΣΙΧΛΑ,0.7
+FINI FRUIT ATTACK,0.7
+FINI MAGIC CARPET,0.7
+FINI ΣΚΟΥΛΗΚΙ,0.7
+FINI ΡΟΔΑΚΙΝΟ,0.7
+FINI ΜΠΛΕ ΦΑΡΔΥ ΜΑΚΡΥ,0.7
+FINI ΜΟΒ ΦΑΡΔΥ ΜΑΚΡΥ,0.7
+FINI ΠΡΑΣΙΝΟ ΦΑΡΔΥ ΜΑΚΡΥ,0.7
+FINI ΚΙΤΡΙΝΟ ΦΑΡΔΥ ΜΑΚΡΥ,0.7
+FINI ΚΟΚΚΙΝΟ ΦΑΡΔΥ ΜΑΚΡΥ,0.7
+FINI ΠΟΡΤΟΚΑΛΙ ΜΑΚΡΥ,0.7
+FINI ΜΠΛΕ ΜΑΚΡΥ ΣΤΡΟΓΓΥΛΟ,0.7
+FINI ΜΟΒ ΜΑΚΡΥ,0.7
+FINI ΒΑΤΡΑΧΟ,0.7
+FINI ΒΑΤΟΜΟΥΡΟ,0.7
+FINI ΧΤΑΠΟΔΙ,0.7
+FINI ΑΥΓΑ,0.7
+FINI TARZAN,0.7
+FINI ΚΑΡΧΑΡΙΑΣ,0.7
+FINI MAGIC CARPET,0.7
+FINI ΔΙΑΦΟΡΑ,0.7
+FINI ΦΡΑΟΥΛΑ ΡΟΖ,0.7
+FINI ΦΡΑΟΥΛΑ ΚΟΚΚΙΝΗ,0.7
+FINI ΦΡΑΟΥΛΑ WILD,0.7
+FINI ΣΚΟΥΛΗΚΙ,0.7
+FINI ΚΕΡΑΣΙ,0.7
+FINI ΠΕΙΡΑΤΗ,0.7
+FINI LITTLE MIX,0.7
+FINI ΜΠΑΝΑΝΑ,0.7
+FINI COCA COLA,0.7
+FINI ΚΑΡΠΟΥΖΙ,0.7
+FINI ΚΑΛΑΜΑΚΙΑ,0.35
+FINI ΖΩΝΗ ΔΙΑΦΟΡΑ,0.28
+FINI ΖΩΝΗ ΚΑΡΠΟΥΖΙ,0.28
+FINI ΖΩΝΗ ΒΑΤΟΜΟΥΡΟ,0.28
+FINI ΖΩΝΗ COCA COLA,0.28
+FINI ΖΩΝΗ ΦΡΑΟΥΛΑ,0.28
+FINI ΖΩΝΗ ΞΙΝΟ,0.28
+TROLLI BURGER ΜΕΓΑΛΑ,0.92
+MELODY,0.33
+ΦΙΛΤΡΑ ΤΟΥ ΠΑΠΠΟΥ ΑΝΘΡΑΚΑ,0.78
+ΦΙΛΤΡΑ ΠΑΠΠΟΥ ΜΠΛΕ,0.55
+ΦΙΛΤΡΑ ΠΑΠΠΟΥ ΜΑΥΡΟ,0.78
+ΦΙΛΤΡΑ ΠΑΠΠΟΥ ΜΑΥΡΟ ΚΟΚΚΙΝΟ,0.78
+ΦΙΛΤΡΑ ΠΑΠΠΟΥ ΠΡΑΣΙΝΟ,0.7
+ΦΙΛΤΡΑ ΠΑΠΠΟΥ ΚΑΦΕ,0.78
+ΦΙΛΤΡΑ RIZLA POCKET,0.31
+ΦΙΛΤΡΑ RIZLA ULTRA SLIM,0.45
+ΦΙΛΤΡΑ RIZLA SLIM,0.45
+ΦΙΛΤΡΑ RIZLA REGULAR,0.7
+ΦΙΛΤΡΑ RIZLA NATURA,0.78
+ΦΙΛΤΡΑ RIZLA ΑΝΘΡΑΚΑ,0.7
+SWAN ΚΙΤΡΙΝΑ,0.45
+SWAN ΚΟΚΚΙΝΑ,0.45
+SWAN ΜΑΥΡΑ,0.78
+SWAN ΠΡΑΣΙΝΑ,0.7
+FILTRAKI ΠΡΑΣΙΝΟ,0.28
+FILTRAKI ΜΑΥΡΟ,0.28
+FILTRAKI ΜΠΛΕ,0.28
+ΦΙΛΤΡΑ OLD HOLBORN ΜΕΓΑΛΑ,0.6
+ΦΙΛΤΡΑ OLD HOLBORN ΜΙΚΡΑ,0.31
+ΜΑΤΙΑ ΦΘΗΝΑ ΔΙΑΦΟΡΑ,0.4
+ΖΕΛΕΔΑΚΙΑ ΜΑΤΙΑ,0.5
+BIG BABOL ΜΠΛΕ,0.45
+BIG BABOL ΡΟΖ,0.45
+TIC-TAC ΔΙΑΦΟΡΕΣ,0.55
+TIC-TAC SPRITE,0.55
+TIC-TAC ΡΟΖ,0.55
+TIC-TAC ΑΣΠΡΗ,0.55
+TIC-TAC ΠΟΡΤΟΚΑΛΙ,0.55
+TIC-TAC ΧΡΩΜΑΤΙΣΤΗ,0.55
+FINI MINI,0.055
+MENTOS MINI,0.055
+TRIDENT MINI,0.055
+HARIBO ROULETTE,0.25
+MAOAM,0.17
+WETHER'S ΒΟΥΤΥΡΟΥ ΚΑΡΑΜΕΛΕΣ,0.65
+RAW ΤΖΙΒΑΝΑ ΑΛΕΥΚΑΤΗ,0.9
+RAW ΤΖΙΒΑΝΑ ΜΑΥΡΗ,0.9
+RAW ΕΤΟΙΜΗ,1
+RAW ΤΖΙΒΑΝΑ ΣΚΕΤΗ,0.18
+RAW ΜΕΓΑΛΟ ΜΑΥΡΟ,0.5
+RAW CLASSIC ΤΖΙΒΑΝΑ,0.9
+RAW CLASSIC ΜΕΓΑΛΗ,0.5
+RAW ΜΕΓΑΛΗ ΑΛΕΥΚΑΝΤΗ,0.5
+RAW ΑΛΕΥΚΑΝΤΟ,0.25
+RAW CLASSIC ΜΑΥΡΟ,0.25
+RAW 1+1/4,0.5
+RAW CLASSIC,0.25
+TARGET ΠΑΠΠΟΥ ΠΡΑΣΙΝΑ,0.3
+TARGET ΠΑΠΠΟΥ ΜΠΛΕ,0.3
+TARGET ΠΑΠΠΟΥ ΜΟΒ,0.3
+OCB ΤΖΙΒΑΝΑ ΣΚΕΤΗ,0.25
+OCB ΜΙΚΡΑ ΜΑΥΡΑ,0.2
+OCB ΜΙΚΡΑ ΜΠΛΕ,0.2
+OCB ΜΙΚΡΑ ΘΑΛΑΣΣΙ,0.2
+OCB ΜΑΥΡΑ ΜΕΓΑΛΑ,0.5
+OCB ΤΖΙΒΑΝΗ ΜΑΥΡΗ,0.75
+OCB ΤΖΙΒΑΝΑ ΚΑΦΕ,0.75
+OCB ΤΖΙΒΑΝΑ ΜΠΛΕ,0.75
+RIZLA ΧΑΡΤΑΚΙΑ ΣΙΕΛ,0.25
+RIZLA ΧΑΡΤΑΚΙΑ ΠΡΑΣΙΝΑ,0.14
+RIZLA ΧΑΡΤΑΚΙΑ ΑΣΗΜΙ,0.18
+RIZLA ΧΑΡΤΑΚΙΑ ΜΠΛΕ,0.14
+RIZLA ΧΑΡΤΑΚΙΑ ΜΑΥΡΑ,0.24
+RIZLA ΧΑΡΤΑΚΙΑ MICRON,0.24
+RIZLA ΧΑΡΤΑΚΙΑ ΠΟΡΤΟΚΑΛΙ,0.25
+RIZLA ΧΑΡΤΑΚΙΑ PRECISION,0.28
+RIZLA ΧΑΡΤΑΚΙΑ ΑΣΠΡΑ,0.25
+RIZLA ΧΑΡΤΑΚΙΑ ΡΟΖ,0.2
+RIZLA ΧΑΡΤΑΚΙΑ NATURA,0.26
+RIZLA ΧΑΡΤΑΚΙΑ ΓΛΥΚΟΡΙΖΑ,0.26
+RIZLA ΧΑΡΤΑΚΙΑ ΚΟΚΚΙΝΑ,0.14
+RIZLA ΧΑΡΤΑΚΙΑ BAMBOO,0.28
+RIZLA ΜΕΓΑΛΑ ΚΟΚΚΙΝΑ,0.35
+RIZLA ΜΕΓΑΛΑ ΑΣΗΜΙ,0.35
+RIZLA ΜΕΓΑΛΑ ΜΠΛΕ,0.35
+RIZLA ΜΕΓΑΛΑ MICRON,0.35
+RIZLA ΜΕΓΑΛΑ ΠΡΑΣΙΝΑ,0.35
+RIZLA ΜΕΓΑΛΑ ΑΣΗΜΙ ΤΖΙΒΑΝΑ,0.6
+RIZLA ΜΕΓΑΛΑ PRECISION,0.35
+RIZLA ΤΖΙΒΑΝΑ ΚΑΦΕ,0.6
+HARIBO ΖΕΛΕΔΑΚΙΑ ΔΙΑΦΟΡΑ,0.85
+HARIBO ΔΥΝΟΣΑΥΡΟΣ,0.85
+HARIBO FLOPPI'S,0.85
+HARIBO COCA COLA,0.85
+HARIBO PRIMAVERA,0.85
+HARIBO STAR MIX,0.85
+HARIBO ΑΡΚΟΥΔΑΚΙ,0.85
+HARIBO ΒΑΤΟΜΟΥΡΟ,0.85
+HARIBO ΚΑΡΔΟΥΛΑ ΔΙΧΡΩΜΗ,0.85
+HARIBO ΚΑΡΠΟΥΖΙ,0.85
+HARIBO ΚΕΡΑΣΙ,0.85
+HARIBO ΠΑΠΑΓΑΛΟΣ,0.85
+HARIBO ΣΚΟΥΛΗΚΙ,0.85
+HARIBO ΣΤΡΟΥΜΦΑΚΙΑ,0.85
+HARIBO ΣΠΑΓΓΕΤΙ,0.85
+HARIBO ΒΑΤΡΑΧΟ,0.85
+HARIBO ΚΕΡΑΣΙ ΞΙΝΟ,0.85
+HARIBO PICO BALLA,0.85
+HARIBO EXOTIC,0.85
+HARIBO ΠΑΤΑΤΑ,0.85
+HARIBO ΜΠΑΝΑΝΑ,0.85
+HARIBO PASTA,0.85
+ΙΟΝ ΓΑΛΑΚΤΟΣ 100ΓΡ,1.35
+ΙΟΝ ΑΜΥΓΔΑΛΟΥ 100ΓΡ,1.35
+ΙΟΝ ΓΑΛΑΚΤΟΣ 70ΓΡ,1.25
+ΙΟΝ ΑΜΥΓΔΑΛΟΥ 70ΓΡ,1.25
+ΙΟΝ BREAK ΑΣΠΡΗ ΣΤΑΦΙΔΑ,1.35
+ΙΟΝ BREAK ΦΟΥΝΤΟΥΚΙ,1.35
+ΙΟΝ BREAK ΓΑΛΑΚΤΟΣ,1.35
+ΙΟΝ BREAK ΑΜΥΓΔΑΛΟ,1.35
+ΙΟΝ BREAK ΠΟΡΤΟΚΑΛΙ,1.35
+ΙΟΝ BREAK ΛΕΜΟΝΙ,1.35
+ΣΟΚΟΦΡΕΤΑ,0.43
+DERBY,0.43
+ΦΙΛΤΡΑ ΠΑΠΠΟΥ ΠΡΑΣΙΝΑ,0.7
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΑΣΗΜΙ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΑΣΠΡΑ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΓΛΥΚΟΡΙΖΑ,0.32
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΡΟΖ,0.34
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΚΑΦΕ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΜΠΛΕ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΠΡΑΣΙΝΑ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΜΑΥΡΑ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΚΟΚΚΙΝΑ,0.3
+ΧΑΡΤΑΚΙΑ ΠΑΠΠΟΥ ΚΙΤΡΙΝΑ,0.3
+GIZEH ΛΑΧΑΝΙ,0.28
+GIZEH ΠΡΑΣΙΝΟ,0.28
+GIZEH ΛΑΧΑΝΙ ΤΖΙΒΑΝΑ,1
+GIZEH ΜΑΥΡΟ ΤΖΙΒΑΝΑ,1
+GIZEH ΜΑΓΝΗΤΑΚΙ,0.5
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΥΓΕΙΑΣ,1.3
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΚΕΡΑΣΙ,1.3
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΦΡΑΟΥΛΑ,1.3
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΠΟΡΤΟΚΑΛΙ,1.3
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΛΕΜΟΝΙ,1.3
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΦΟΥΝΤΟΥΚΙ,1.3
+ΣΟΚΟΛΑΤΑ ΠΑΥΛΙΔΗΣ ΑΜΥΓΔΑΛΟ,1.3
+PRINGLES ΜΕΓΑΛΑ ΔΙΑΦΟΡΑ,2.25
+PRINGLES ΜΕΓΑΛΑ ΚΟΚΚΙΝΑ,2.25
+PRINGLES ΜΕΓΑΛΑ ΠΟΡΤΟΚΑΛΙ,2.25
+PRINGLES ΜΕΓΑΛΑ ΜΟΒ,2.25
+PRINGLES ΜΕΓΑΛΑ ΠΡΑΣΙΝΑ,2.25
+PRINGLES ΜΕΓΑΛΑ ΜΠΛΕ,2.25
+PRINGLES ΜΕΓΑΛΑ ΜΑΥΡΑ,2.25
+PRINGELS ΜΙΚΡΑ ΔΙΑΦΟΡΑ,0.98
+PRINGLES ΜΙΚΡΑ ΚΟΚΚΙΝΑ,0.98
+PRINGLES ΜΙΚΡΑ ΠΡΑΣΙΝΑ,0.98
+PRINGLES ΜΙΚΡΑ ΜΟΒ,0.98
+PRINGLES ΜΙΚΡΑ ΠΟΡΤΟΚΑΛΙ,0.98
+PRINGLES ΜΙΚΡΑ ΜΑΥΡΑ,0.98
+3BIT,0.75
+KINDER JOY,0.95
+KINDER ΑΥΓΑ,0.7
+KINDER ΣΟΚΟΛΑΤΑ,1.1
+KINDER BUENO,0.7
+KINDER BUENO ΑΣΠΡΟ,0.7
+CHUPA CHUPS ΔΙΑΦΟΡΑ,0.9
+CHUPA CHUPS ΒΑΤΟΜΟΥΡΟ,0.9
+CHUPA CHUPS ΦΡΑΟΥΛΑ,0.9
+CHUPA CHUPS ΜΑΝΓΚΟ,0.9
+CHUPA CHUPS ΣΤΑΦΥΛΙ,0.9
+CHUPA CHUPS ΛΕΜΟΝΙ,0.9
+CHUPA CHUPS ΓΛΕΙΦΙΤΖΟΥΡΙ,0.15
+KISS,0.38
+SNICKERS,0.55
+BOUNTY,0.7
+TWIX,0.55
+AMARETTI ΠΛΑΚΕ,0.55
+AMARETTI ΣΑΚΟΥΛΑΚΙ,1.35
+MARS,0.55
+ΥΓΡΑ ΜΑΝΤΗΛΑΚΙΑ ΦΘΗΝΑ,0.3
+MALTESERS,0.65
+M&MS,0.55
+TOBLERONE,1.19
+KITKAT,0.6
+ΣΟΚΟΛΑΤΑ LACTA ΔΙΑΦΟΡΕΣ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΓΑΛΑΚΤΟΣ,1.3
+ΣΟΚΟΛΑΤΑ LACTA OREO,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΦΡΑΟΥΛΑ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΛΕΥΚΗ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΦΡΑΟΥΛΑ OREO,1.3
+ΣΟΚΟΛΑΤΑ LACTA LILA PAUSE,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΚΡΕΜΑ ΦΡΑΟΥΛΑ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΣΑΝΤΟΥΙΤΣ ΜΠΙΣΚΟΤΟ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΑΜΥΓΔΑΛΟ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΦΟΥΝΤΟΥΚΙ,1.3
+ΣΟΚΟΛΑΤΑ LACTA BROWNIE OREO,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΔΙΠΛΗ ΚΑΡΑΜΕΛΑ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΤΡΙΠΛΗ ΚΑΡΑΜΕΛΑ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΤΡΙΠΛΗ ΣΟΚΟΛΑΤΑ,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΛΕΥΚΗ OREO,1.3
+ΣΟΚΟΛΑΤΑ LACTA ΣΑΝΤΟΥΙΤΣ OREO,1.3
+ΣΟΚΟΛΑΤΑ LACTA CRACKER,1.3
+ΣΟΚΟΛΑΤΑ MILKA,0.9
+ΣΟΚΟΛΑΤΑ MILKA OREO ΑΣΠΡΗ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΦΟΥΝΤΟΥΚΙ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΒΑΤΟΜΟΥΡΟ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΤΡΙΠΛΗ ΣΟΚΟΛΑΤΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΤΡΙΠΛΗ ΚΑΡΑΜΕΛΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA BUBBLY ΑΣΠΡΗ,0.9
+ΣΟΚΟΛΑΤΑ MILKA BUBBLY ΚΑΦΕ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΦΡΑΟΥΛΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA AHOY,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΝΟΥΑΖΕΤΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΚΑΡΑΜΕΛΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΑΣΠΡΗ,0.9
+ΣΟΚΟΛΑΤΑ MILKA OREO,0.9
+ΣΟΚΟΛΑΤΑ MILKA OREO ΟΛΟΚΛΗΡΟ,0.9
+ΣΟΚΟΛΑΤΑ MILKA CRACKER TU,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΣΑΝΤΟΥΙΤΣ ΜΠΙΣΚΟΤΟ LU,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΤΡΙΠΛΗ ΣΟΚΟΛΑΤΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA SMARTIES,0.9
+ΣΟΚΟΛΑΤΑ MILKA OREO BROWNIE,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΣΤΑΦΙΔΑ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΠΑΙΔΙΚΗ,0.9
+ΣΟΚΟΛΑΤΑ MILKA ΚΕΡΑΣΙ,0.9
+CRUNCH ΑΣΠΡΗ,1.19
+CRUNCH ΜΠΛΕ,1.19
+LILA PAUSE,0.75
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ,1.1
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΣΟΚΟΛΑΤΑ,1.1
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΛΕΜΟΝΙ,1.1
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΒΑΝΙΛΙΑ,1.1
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠΑΝΑΝΑ,1.1
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΚΑΡΥΔΑΑ,1.1
+ΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΠΟΡΤΟΚΑΛΙ,1.1
+ΔΙΠΛΟΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΣΟΚΟΛΑΤΑ,1.2
+ΔΙΠΛΟΓΕΜΙΣΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΒΑΝΙΛΙΑ,1.2
+COOKIES ΠΑΠΑΔΟΠΟΥΛΟΥ ΚΟΚΚΙΝΑ,1.35
+COOKIES ΠΑΠΑΔΟΠΟΥΛΟΥ ΚΑΦΕ,1.35
+BATONETTES,0.55
+PICK CRACKERS BACON,1.1
+PICK CRACKER ΚΙΤΡΙΝΟ,1.1
+MINI PICK CRACKERS ΚΙΤΡΙΝΑ,0.65
+MINI PICK CRACKERS ΚΟΚΚΙΝΑ,0.65
+OREO ΜΠΙΣΚΟΤΑ,1.2
+ΜΙΡΑΝΤΑ ΠΑΠΑΔΟΠΟΥΛΟΥ,1.35
+ΠΤΙ-ΜΠΕΡ ΣΚΕΤΑ,1
+ΠΤΙ-ΜΠΕΡ ΣΟΚΟΛΑΤΑ,1.7
+CAPRICE ΜΙΚΡΑ,1.35
+CAPRICE ΜΕΓΑΛΑ,3.3
+CREAM CRACKERS ΚΟΚΚΙΝΟ,1.2
+CREAM CRACKERS ΜΑΥΡΟ,1.2
+DIGESTIVE ΚΟΚΚΙΝΑ,1.5
+DIGESTIVE ΠΡΑΣΙΝΑ,1.9
+EVANS TARGET ΜΠΛΕ,0.3
+EVANS TARGET ΜΟΒ,0.3
+EVANS TARGET ΠΡΑΣΙΝΟ,0.3
+ΠΕΤΡΕΣ ZIPPO,1.2
+ΦΥΤΙΛΙ,1.2
+ΒΙΑΠ ΚΟΚΚΙΝΗ,0.6
+ΒΙΑΠ ΠΡΑΣΙΝΗ,0.6
+ΚΟΛΙΕΔΑΚΙΑ,0.2
