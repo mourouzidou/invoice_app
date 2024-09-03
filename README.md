@@ -1,5 +1,12 @@
-Appodeikseis_v2 is an advanced application designed to streamline and enhance the process of calculating and generating invoices for products and clients. It offers a user-friendly interface with robust features aimed at improving efficiency and accuracy in managing invoices.
+# Appodeikseis_v2 
+### This is a desktop application developed in order to help my family business save time and effort by automating the invoice generation procedures. 
+### Problems solved:
+* No more calculation mistakes
+* Speed up the bill calculations up to 4 times
+* Keep track of client orders over time
+* Warehouse management such as the storage of available products, prices etc.
 
+Appodeikseis_v2 is a dekstop application designed to streamline and enhance the process of calculating and generating invoices for products and clients. It offers a user-friendly interface with robust features aimed at improving efficiency and accuracy in managing and generating invoices.
 
 
 How to Use
@@ -16,7 +23,7 @@ How to Use
     Data Management:
         Easily manage products and clients through intuitive controls, with upcoming features to reload and edit product details on the fly.
 
-Appodeikseis_v2 is your comprehensive solution for efficient invoice management, ensuring accuracy, and enhancing productivity. Stay tuned for version 3, bringing even more powerful features and improvements!
+Appodeikseis_v2 is a comprehensive solution for efficient invoice management, ensuring accuracy, and enhancing productivity. Stay tuned for version 3, bringing even more powerful features and improvements!
 
 
 # Version 2 Changes
