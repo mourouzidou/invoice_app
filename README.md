@@ -44,4 +44,6 @@ Appodeikseis_v2 is a comprehensive solution for efficient invoice management, en
 - **Create a list** of all clients and choose them from a drop down menu
 - **Automatically create** a different directory for each client
 
+! [Enter the Client Name] (./Screenshot)
+
  
