@@ -37,10 +37,20 @@ Appodeikseis_v2 is a comprehensive solution for efficient invoice management, en
 
 ---
 
+
+
+
+
+
 Step1: Select a product from the auto-complete dorp-down menu
        Each product has a default price unless the user sets a new price manually
        
 Step2: Click "ΥΠΟΛΟΓΙΣΜΟΣ ΠΟΣΟΥ" button to store the entry and calculate the total price for this product
+
+<p align="center">
+  <img src="https://github.com/mourouzidou/invoice_app/blob/main/Screenshot%20from%202024-09-03%2013-26-02.png" alt="Enter the Client Name" width="400"/>
+  <img src="Screenshot from 2024-09-03 13-26-34.png" alt="" width="400"/>
+</p>
 
 Step3: Add a new product (this time the product price is specified -optional- and the default price will be overwritten)
        The total price is automatically calculated and displayed in the field "ΤΕΛΙΚΟ ΠΟΣΟ"
@@ -48,19 +58,13 @@ Step3: Add a new product (this time the product price is specified -optional- an
 
 Step4: The user can delete a product from the list and the entry will be removed. The price is subtracted from the total price (Optional)
 
-Step5: Click the button "ΑΠΟΘΗΚΕΥΣΗ ΤΙΜΟΛΟΓΙΟΥ" to save the invoice and export it as a pdf in the format ClientName_Today's_Date.pdf
-
-<p align="center">
-  <img src="https://github.com/mourouzidou/invoice_app/blob/main/Screenshot%20from%202024-09-03%2013-26-02.png" alt="Enter the Client Name" width="400"/>
-  <img src="Screenshot from 2024-09-03 13-26-34.png" alt="" width="400"/>
-</p>
-
-
 <p align="center">
   <img src="Screenshot from 2024-09-03 13-27-01.png" alt="Enter the Client Name" width="400"/>
   <img src="Screenshot from 2024-09-03 13-27-48.png" alt="Another Image" width="400"/>
 </p>
 
+
+Step5: Click the button "ΑΠΟΘΗΚΕΥΣΗ ΤΙΜΟΛΟΓΙΟΥ" to save the invoice and export it as a pdf in the format ClientName_Today's_Date.pdf
 <p align="center">
   <img src="Screenshot from 2024-09-03 13-28-09.png" alt="Third Image" width="400"/>
   <img src="Screenshot from 2024-09-03 13-28-22.png" alt="Fourth Image" width="400"/>
